@@ -31,6 +31,11 @@ Selected objects pop out of the spread in 3D. Drag to rotate them.
 
 ![Pop-out objects](assets/pop.gif)
 
+### A pen you can pick up
+The graphite instrument on the *Instruments* spread lifts off the paper as a full 3D object — grab it and turn it in your hand.
+
+![Pen in 3D](assets/pen.gif)
+
 ### Take it apart, put it back
 Shatter a spread into pieces, then watch it reassemble.
 
