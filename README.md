@@ -1,7 +1,7 @@
 # Still Matter — Issue 10
 
-**A WebGL flip magazine about objects, light and the quiet weight of things.**
-Still Matter · Issue 10 · October 2026 — designed by **jw design**.
+**My October 2026 Midjourney selection — bound as a WebGL flip magazine.**
+Still Matter · Issue 10 · October 2026 is a curated collection of my Midjourney works from October 2026, about objects, light and the quiet weight of things. Designed by **jw design**.
 
 ### ▶ Live demo: **[still-matter.pages.dev](https://still-matter.pages.dev)**
 
